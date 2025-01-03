@@ -19,15 +19,9 @@ Players can choose the grid size and win length, providing a customizable gaming
 ## How to Run
 1. <b>Clone the repository</b><br>
 
-ADD IMAGE HERE<br>
-
 2. <b>Compile the Java files:</b> Navigate to the directory containing the .java files and compile them using the javac command<br>
 
-ADD IMAGE HERE<br>
-
 3. <b>Run the Game:</b> After compiling, run the game using the following command<br>
-
-ADD IMAGE HERE<br>
 
 4. <b>Play the Game:</b> Follow the on-screen prompts to play the game. You will be prompted to select a grid size, win length, and game mode.
 The game will then allow you to make moves as either a human or a computer.
